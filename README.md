@@ -7,5 +7,5 @@ the project is budgetd by bahirdar university and internation media sport
 
 to develop this mobile application i use flutter.
 
-  how to use
+  <p>how to use</p>
  to use this application simple just download the apk file and install on you mobile
