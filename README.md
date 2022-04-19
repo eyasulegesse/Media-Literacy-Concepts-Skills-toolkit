@@ -1,7 +1,7 @@
 Media Literacy
 Concepts, Skills& toolkit
 
-the main objective of this application to create awareness or lecture to public on how to use social media for positive
+the main objective of this application to create awareness  to user on how to use social media for positive
 
 the project is budgetd by bahirdar university and internation media sport 
 
